@@ -1,6 +1,6 @@
 Hi, I’m Chad, thank you for checking my github. 👋
 
-⚠️ Alas! There's not much public repo you'll see here.
+There's not much public repo you can see here.
 
 
 <!---
