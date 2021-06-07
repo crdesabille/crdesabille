@@ -1,6 +1,5 @@
-Hi, I’m Chad, thank you for checking my github. 👋
+Hi there, I hope you're having a great day! 👋
 
-There's not much public repo you can see here.
 
 
 <!---
